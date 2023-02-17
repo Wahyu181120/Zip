@@ -1,0 +1,3 @@
+1675866491: new file observer at /sdcard/Playlists with mask 712
+1675866491: Object created, trigger FULL_SYNC_SCAN
+1675866494: fullSyncScan() running...
